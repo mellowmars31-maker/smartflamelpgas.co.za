@@ -31,7 +31,7 @@ const Footer = () => (
           <div className="space-y-3 font-body text-secondary/70">
             <a href="tel:0698776794" className="flex items-center gap-2 hover:text-secondary"><Phone size={16} /> 069 877 6794</a>
             <a href="tel:0848081332" className="flex items-center gap-2 hover:text-secondary"><Phone size={16} /> 084 808 1332</a>
-            <a href="mailto:princemukarati4@gmail.com" className="flex items-center gap-2 hover:text-secondary"><Mail size={16} /> princemukarati4@gmail.com</a>
+            <a href="mailto:smartflamelpgas@gmail.com" className="flex items-center gap-2 hover:text-secondary"><Mail size={16} /> smartflamelpgas@gmail.com</a>
             <div className="flex items-start gap-2"><MapPin size={16} className="mt-1 shrink-0" /> 171 Pitts Avenue, Weavind Park, Pretoria</div>
           </div>
         </div>
