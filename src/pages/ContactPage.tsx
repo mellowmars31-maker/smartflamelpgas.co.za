@@ -105,10 +105,10 @@ const ContactPage = () => {
                   <p className="font-body text-sm text-muted-foreground">Chat with us instantly</p>
                 </div>
               </a>
-              <a href="mailto:princemukarati4@gmail.com" className="flex items-center gap-4 p-4 industrial-border hover:border-primary transition-colors">
+              <a href="mailto:smartflamelpgas@gmail.com" className="flex items-center gap-4 p-4 industrial-border hover:border-primary transition-colors">
                 <Mail size={24} className="text-primary icon-hover" />
                 <div>
-                  <p className="font-display font-bold text-foreground">princemukarati4@gmail.com</p>
+                  <p className="font-display font-bold text-foreground">smartflamelpgas@gmail.com</p>
                   <p className="font-body text-sm text-muted-foreground">Email us anytime</p>
                 </div>
               </a>
