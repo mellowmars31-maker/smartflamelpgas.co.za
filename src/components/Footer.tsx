@@ -30,9 +30,8 @@ const Footer = () => (
           <h4 className="font-display font-bold text-sm uppercase tracking-widest mb-4 text-secondary">Contact</h4>
           <div className="space-y-3 font-body text-secondary/70">
             <a href="tel:0698776794" className="flex items-center gap-2 hover:text-secondary"><Phone size={16} /> 069 877 6794</a>
-            <a href="tel:0848081332" className="flex items-center gap-2 hover:text-secondary"><Phone size={16} /> 084 808 1332</a>
             <a href="mailto:smartflamelpgas@gmail.com" className="flex items-center gap-2 hover:text-secondary"><Mail size={16} /> smartflamelpgas@gmail.com</a>
-            <div className="flex items-start gap-2"><MapPin size={16} className="mt-1 shrink-0" /> 171 Pitts Avenue, Weavind Park, Pretoria</div>
+            <div className="flex items-start gap-2"><MapPin size={16} className="mt-1 shrink-0" /> 61 Carnation, Eastlynne, Pretoria</div>
           </div>
         </div>
       </div>
