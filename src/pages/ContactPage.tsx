@@ -91,11 +91,11 @@ const ContactPage = () => {
                   <p className="font-body text-sm text-muted-foreground">Primary Line</p>
                 </div>
               </a>
-              <a href="tel:0848081332" className="flex items-center gap-4 p-4 industrial-border hover:border-primary transition-colors group">
-                <Phone size={24} className="text-primary icon-hover" />
+              <a href="https://wa.me/27698776794" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 industrial-border hover:border-whatsapp transition-colors">
+                <MessageCircle size={24} className="text-whatsapp icon-hover" />
                 <div>
-                  <p className="font-display font-bold text-foreground">084 808 1332</p>
-                  <p className="font-body text-sm text-muted-foreground">Secondary Line</p>
+                  <p className="font-display font-bold text-foreground">WhatsApp</p>
+                  <p className="font-body text-sm text-muted-foreground">Chat with us instantly</p>
                 </div>
               </a>
               <a href="https://wa.me/27698776794" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 industrial-border hover:border-whatsapp transition-colors">
