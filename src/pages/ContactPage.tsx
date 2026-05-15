@@ -91,13 +91,6 @@ const ContactPage = () => {
                   <p className="font-body text-sm text-muted-foreground">Primary Line</p>
                 </div>
               </a>
-              <a href="tel:0848081332" className="flex items-center gap-4 p-4 industrial-border hover:border-primary transition-colors group">
-                <Phone size={24} className="text-primary icon-hover" />
-                <div>
-                  <p className="font-display font-bold text-foreground">084 808 1332</p>
-                  <p className="font-body text-sm text-muted-foreground">Secondary Line</p>
-                </div>
-              </a>
               <a href="https://wa.me/27698776794" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 industrial-border hover:border-whatsapp transition-colors">
                 <MessageCircle size={24} className="text-whatsapp icon-hover" />
                 <div>
@@ -115,8 +108,8 @@ const ContactPage = () => {
               <div className="flex items-start gap-4 p-4 industrial-border">
                 <MapPin size={24} className="text-primary shrink-0 mt-1" />
                 <div>
-                  <p className="font-display font-bold text-foreground">171 Pitts Avenue</p>
-                  <p className="font-body text-sm text-muted-foreground">Weavind Park, Pretoria</p>
+                  <p className="font-display font-bold text-foreground">61 Carnation</p>
+                  <p className="font-body text-sm text-muted-foreground">Eastlynne, Pretoria</p>
                 </div>
               </div>
             </div>
