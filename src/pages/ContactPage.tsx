@@ -98,13 +98,6 @@ const ContactPage = () => {
                   <p className="font-body text-sm text-muted-foreground">Chat with us instantly</p>
                 </div>
               </a>
-              <a href="https://wa.me/27698776794" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 industrial-border hover:border-whatsapp transition-colors">
-                <MessageCircle size={24} className="text-whatsapp icon-hover" />
-                <div>
-                  <p className="font-display font-bold text-foreground">WhatsApp</p>
-                  <p className="font-body text-sm text-muted-foreground">Chat with us instantly</p>
-                </div>
-              </a>
               <a href="mailto:smartflamelpgas@gmail.com" className="flex items-center gap-4 p-4 industrial-border hover:border-primary transition-colors">
                 <Mail size={24} className="text-primary icon-hover" />
                 <div>
@@ -115,8 +108,8 @@ const ContactPage = () => {
               <div className="flex items-start gap-4 p-4 industrial-border">
                 <MapPin size={24} className="text-primary shrink-0 mt-1" />
                 <div>
-                  <p className="font-display font-bold text-foreground">171 Pitts Avenue</p>
-                  <p className="font-body text-sm text-muted-foreground">Weavind Park, Pretoria</p>
+                  <p className="font-display font-bold text-foreground">61 Carnation</p>
+                  <p className="font-body text-sm text-muted-foreground">Eastlynne, Pretoria</p>
                 </div>
               </div>
             </div>
